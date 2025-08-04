@@ -15,7 +15,7 @@ Passionate about creating scalable applications, robust APIs, and developer tool
 ### 🔧 Development Tools
 
 -   📡 **[PyHLS](https://github.com/ZingyTomato/PyHLS)** - Secure, self-hosted HLS streaming with token-based access
--   🎶 **[GaanaPy](https://github.com/ZingyTomato/GaanaPy)** - Unofficial Gaana API wrapper
+-   🎶 **[GaanaPy](https://github.com/ZingyTomato/GaanaPy)** - Unofficial Gaana web API 
 -   🎼 **[JiosaavnPy](https://github.com/ZingyTomato/JiosaavnPy)** - Unofficial Jiosaavn API library
 
 ## 📊 Stats
