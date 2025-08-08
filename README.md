@@ -2,7 +2,7 @@
 
 **🐍 Python Developer** | **🌟 Open Source Contributor**
 
-Passionate about creating scalable applications, robust APIs, and developer tools. Firm believer in open source software, digital privacy, and user empowerment through technology.
+Computer science student focused on backend systems, infrastructure and open-source tooling. Interested in building practical and maintainable software, particularly around developer tools, automation and user privacy.
 
 ## 📂 Projects
 
