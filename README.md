@@ -2,7 +2,7 @@
 
 **🐍 Python Developer** | **🌟 Open Source Contributor**
 
-Computer science student focused on backend systems, infrastructure and open-source tooling. Interested in building practical and maintainable software, particularly around developer tools, automation and user privacy.
+Computer science student working on backend systems, infrastructure, and open-source tooling. Interested in building practical and maintainable software, with a focus on developer tools, automation, and privacy-focused projects.
 
 ## 📂 Projects
 
