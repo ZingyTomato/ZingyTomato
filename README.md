@@ -16,7 +16,7 @@ Computer science student working on backend systems, infrastructure, and open-so
 
 -   📡 **[PyHLS](https://github.com/ZingyTomato/PyHLS)** - Secure, self-hosted HLS streaming with token-based access
 -   🎶 **[GaanaPy](https://github.com/ZingyTomato/GaanaPy)** - Unofficial Gaana web API 
--   🎼 **[JiosaavnPy](https://github.com/ZingyTomato/JiosaavnPy)** - Unofficial Python3 library for Jiosaavn API
+-   🎼 **[JiosaavnPy](https://github.com/ZingyTomato/JiosaavnPy)** - Unofficial Python3 library for Jiosaavn
 
 ## 📊 Stats
 
