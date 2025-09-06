@@ -6,17 +6,16 @@ Computer science student working on backend systems, infrastructure, and open-so
 
 ## 📂 Projects
 
+### 🏬 Applications
+
+-   🔍 **[NetPeek](https://github.com/ZingyTomato/NetPeek)** - Modern network scanner for GNOME
+-   🎧 **[Harmony-Music](https://github.com/ZingyTomato/Harmony-Music)** - Open source music streamer based on MPV
+
 ### 🔧 Development Tools
 
 -   🎶 **[GaanaPy](https://github.com/ZingyTomato/GaanaPy)** - Unofficial JSON web API for Gaana
 -   📡 **[PyHLS](https://github.com/ZingyTomato/PyHLS)** - Secure, self-hosted HLS streaming with token-based access
 -   🎼 **[JiosaavnPy](https://github.com/ZingyTomato/JiosaavnPy)** - Unofficial Python3 library for Jiosaavn
-
-### 🏬 Applications
-
--   🔍 **[NetPeek](https://github.com/ZingyTomato/NetPeek)** - Modern network scanner for GNOME
--   🎧 **[Harmony-Music](https://github.com/ZingyTomato/Harmony-Music)** - Open source music streamer based on MPV
--   🤖 **[Niko-Music](https://github.com/ZingyTomato/Niko-Music)** - Feature-rich Discord music bot
 
 ## 📊 Stats
 
